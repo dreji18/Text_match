@@ -1,2 +1,5 @@
+streamlit
+numpy
+pandas
 fuzzywuzzy
-xlrd
+xlrd >= 1.0.0
